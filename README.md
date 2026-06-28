@@ -1,1 +1,1 @@
-News Digest
+News Digest webpage
